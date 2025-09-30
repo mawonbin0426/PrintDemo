@@ -1,5 +1,5 @@
 #변수 선언
-name="alice"
+name="ma won bin"
 age=25
 score=95.5
 
