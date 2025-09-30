@@ -1,6 +1,6 @@
 #변수 선언
-name="ma won bin"
-age=25
+name="마원빈"
+age=20
 score=95.5
 
 # 1. 기본 출력
